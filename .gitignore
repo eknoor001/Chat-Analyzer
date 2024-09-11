@@ -1,0 +1,6 @@
+venv
+similarity.pkl
+vectorizer.pkl
+main.py
+app.py
+movies.pkl
